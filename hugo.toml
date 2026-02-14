@@ -1,0 +1,66 @@
+baseURL = 'https://blog.readmigo.app/'
+languageCode = 'en'
+title = 'Readmigo Blog'
+theme = 'PaperMod'
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = 'production'
+  description = 'Readmigo official blog — product updates, reading insights, and market perspectives on AI-powered English learning.'
+  author = 'Readmigo Team'
+  defaultTheme = 'light'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = 'Readmigo Blog'
+    Content = 'Product updates, reading insights, and perspectives on AI-powered English learning.'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/readmigo'
+
+  [[params.socialIcons]]
+    name = 'x'
+    url = 'https://x.com/nicekwell'
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:support@readmigo.app'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Categories'
+    url = '/categories/'
+    weight = 20
+
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 30
+
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Readmigo'
+    url = 'https://readmigo.app'
+    weight = 40
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
