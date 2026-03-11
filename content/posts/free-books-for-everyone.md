@@ -4,7 +4,7 @@ date: 2026-03-11
 draft: false
 tags: ["announcement", "product", "open-source", "community"]
 categories: ["Product"]
-summary: "Readmigo removes all book restrictions. Every classic in our library is now free to read and download — no subscription required. Plus, 30 minutes of free audiobooks and TTS every day."
+summary: "Readmigo removes all book restrictions. Every classic in our library is now free to read — no subscription required. Plus, 30 minutes of free audiobooks and TTS every day."
 ---
 
 We believe the greatest works of human civilization should be accessible to everyone — not locked behind a paywall.
@@ -17,13 +17,15 @@ We've completely reimagined how Readmigo works. Here's the short version:
 
 **Free for everyone, forever:**
 - **1,200+ classic English books** — read them all, no restrictions
-- **Download any book** for offline reading — take your library anywhere
+- **Automatic offline caching** — chapters are cached as you read, so you can always pick up where you left off, even without internet
 - **30 minutes of free listening every day** — audiobooks and text-to-speech, combined
 
 **Pro subscribers get:**
 - **Unlimited listening** — no daily time cap on audiobooks or TTS
 - **Cross-device data sync** — your highlights, reading progress, notes, and bookshelf travel with you across every device
 - **Cloud backup** — never lose a single highlight, even if you lose your phone
+- **One-click download** — download full books with a single tap for complete offline access
+- **AES-256 data protection** — military-grade encryption for your reading data
 
 ## Why We Made This Change
 
@@ -61,6 +63,6 @@ That's all it takes. And now, it's free.
 
 ## Get Started
 
-Readmigo is available on the [App Store](https://apps.apple.com/app/readmigo/id6740539519). Update to the latest version and start reading — everything is already unlocked.
+Readmigo is available on the [App Store](https://apps.apple.com/app/readmigo/id6740539519) and [Google Play](https://play.google.com/store/apps/details?id=com.readmigo.app). Update to the latest version and start reading — everything is already unlocked.
 
 Happy reading.
