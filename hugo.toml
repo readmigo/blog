@@ -31,6 +31,10 @@ theme = 'PaperMod'
     url = 'https://x.com/readmigo_app'
 
   [[params.socialIcons]]
+    name = 'discord'
+    url = 'https://discord.gg/X79FTWZHJb'
+
+  [[params.socialIcons]]
     name = 'email'
     url = 'mailto:support@readmigo.app'
 
