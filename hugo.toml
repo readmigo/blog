@@ -60,7 +60,7 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = 'home'
     name = 'Readmigo'
-    url = 'https://readmigo.app'
+    url = 'https://readmigo.app?utm_source=blog&utm_medium=referral&utm_campaign=blog_nav'
     weight = 40
 
 [taxonomies]
